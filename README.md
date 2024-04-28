@@ -10,7 +10,7 @@ This Script requires PowerShell & Python  make sure to have it👀
 `
 
 # NOTE:
-You can change the command name as you like😁
+You can change the command name as you like😁  
 Copy the function from Microsoft.PowerShell_profile.ps1 to your's Microsoft.PowerShell_profile.ps1
 
 You can find Microsoft.PowerShell_profile.ps1 by :
